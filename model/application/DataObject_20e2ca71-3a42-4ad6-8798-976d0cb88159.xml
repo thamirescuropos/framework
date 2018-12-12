@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Processo"
+    id="20e2ca71-3a42-4ad6-8798-976d0cb88159">
+  <properties
+      key="Última atualização"/>
+  <properties
+      key="Categoria do e-VoG"/>
+  <properties
+      key="Data de início dos dados"/>
+  <properties
+      key="Frequência de atualização"/>
+  <properties
+      key="Resource Group"/>
+</archimate:DataObject>

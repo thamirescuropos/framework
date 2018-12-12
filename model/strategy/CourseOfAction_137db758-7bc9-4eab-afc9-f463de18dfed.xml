@@ -1,0 +1,11 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Iniciativa"
+    id="137db758-7bc9-4eab-afc9-f463de18dfed">
+  <properties
+      key="Descrição"/>
+  <properties
+      key="Prazo"/>
+  <properties
+      key="Tipo"/>
+</archimate:CourseOfAction>

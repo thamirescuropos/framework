@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="05. Visão de Infraestrutura"
+    id="b1cbe8b4-c68a-4fb2-bd9f-e82a7de0efd5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7d7d8f2b-8608-4b57-8294-67a5775ac8aa"
+      targetConnections="c00e3692-825d-424e-b8c8-8949307b9e5a"
+      textPosition="1">
+    <bounds
+        x="384"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_2aec81f7-492b-4c86-b208-3081d1abfffc.xml#2aec81f7-492b-4c86-b208-3081d1abfffc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="10f53a38-03e2-455f-b0d7-65ac027afc21"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c00e3692-825d-424e-b8c8-8949307b9e5a"
+        source="10f53a38-03e2-455f-b0d7-65ac027afc21"
+        target="7d7d8f2b-8608-4b57-8294-67a5775ac8aa">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_f6da4681-68be-40a2-87b8-a7fccb9e8585.xml#f6da4681-68be-40a2-87b8-a7fccb9e8585"/>
+    </sourceConnections>
+    <bounds
+        x="384"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Facility"
+        href="Facility_bd46c26b-8dcf-4c93-9a90-0029c73192f5.xml#bd46c26b-8dcf-4c93-9a90-0029c73192f5"/>
+  </children>
+</archimate:ArchimateDiagramModel>

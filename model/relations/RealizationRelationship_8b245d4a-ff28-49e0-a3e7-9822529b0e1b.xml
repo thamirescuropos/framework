@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="possui"
+    id="8b245d4a-ff28-49e0-a3e7-9822529b0e1b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_fb5a40e3-d387-4852-93eb-f10356e4ce71.xml#fb5a40e3-d387-4852-93eb-f10356e4ce71"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_2084858c-1222-468e-8cc7-b8c67292811c.xml#2084858c-1222-468e-8cc7-b8c67292811c"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="está associada"
+    id="59a0bb91-6d95-4efd-8667-9b0220c69b41">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_0bb393a7-3bf0-4b42-be1e-ca4d38962c4a.xml#0bb393a7-3bf0-4b42-be1e-ca4d38962c4a"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_90efc778-fe6d-4df6-9daa-e318d38c3d01.xml#90efc778-fe6d-4df6-9daa-e318d38c3d01"/>
+</archimate:AssociationRelationship>

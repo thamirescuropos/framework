@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conjunto de informações"
+    id="11265247-3b30-449b-9689-51418e8e4da7">
+  <properties
+      key="Nome"/>
+  <properties
+      key="Descrição"/>
+  <properties
+      key="Tipologia"/>
+</archimate:BusinessObject>

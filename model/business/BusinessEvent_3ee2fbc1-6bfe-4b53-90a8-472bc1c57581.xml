@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erro na análise da situação do credor"
+    id="3ee2fbc1-6bfe-4b53-90a8-472bc1c57581"
+    documentation="Grau de probabilidade x1x 2 3 4 5&#xA;muito baixo, baixo , médio, alto, muito alto&#xA;&#xA;3 dimensoes - pegar maior valor&#xA;&#xA;Grau de impacto 1 2 x3x 4 5&#xA;&#xA;4 dimensoes: contabiliza cada uma e pega maior valor.&#xA;1 - 3&#xA;2 - 1&#xA;3 - 2&#xA;4 - 1"/>

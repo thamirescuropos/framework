@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="está associado"
+    id="9129dc41-ec78-4eac-9b1d-9571833304ad">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_06189f7a-4bd2-4efd-906b-70adef276fc1.xml#06189f7a-4bd2-4efd-906b-70adef276fc1"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_36deaa2d-1c41-421e-a5f7-2a7d97568a84.xml#36deaa2d-1c41-421e-a5f7-2a7d97568a84"/>
+</archimate:AssociationRelationship>

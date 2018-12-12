@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="atende"
+    id="26dea5fc-4654-40c2-a4c8-809dc1d70e32">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_36deaa2d-1c41-421e-a5f7-2a7d97568a84.xml#36deaa2d-1c41-421e-a5f7-2a7d97568a84"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_31a587de-c575-47dc-8d2e-b5a7be231d14.xml#31a587de-c575-47dc-8d2e-b5a7be231d14"/>
+</archimate:AssociationRelationship>

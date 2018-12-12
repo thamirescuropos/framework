@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provê perspectiva de uso"
+    id="af7e9c44-4e4c-4709-9043-e3f418ea8f35">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_aac0606d-8813-441e-bf7c-50dc475a4ab7.xml#aac0606d-8813-441e-bf7c-50dc475a4ab7"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_7943e45c-32a7-4e26-bf59-22c3820f216a.xml#7943e45c-32a7-4e26-bf59-22c3820f216a"/>
+</archimate:AssociationRelationship>

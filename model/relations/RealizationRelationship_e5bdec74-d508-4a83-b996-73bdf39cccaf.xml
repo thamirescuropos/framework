@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiza"
+    id="e5bdec74-d508-4a83-b996-73bdf39cccaf">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_31a587de-c575-47dc-8d2e-b5a7be231d14.xml#31a587de-c575-47dc-8d2e-b5a7be231d14"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_dcfff3af-04fd-47d4-a982-a9aae3ac3159.xml#dcfff3af-04fd-47d4-a982-a9aae3ac3159"/>
+</archimate:RealizationRelationship>

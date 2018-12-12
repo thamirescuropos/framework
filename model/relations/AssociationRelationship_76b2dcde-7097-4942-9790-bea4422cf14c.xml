@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="disponibiliza"
+    id="76b2dcde-7097-4942-9790-bea4422cf14c">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a9f551c9-8bc1-4ce2-b458-9ab09a2b0f5f.xml#a9f551c9-8bc1-4ce2-b458-9ab09a2b0f5f"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_952ff25e-bc20-4faf-88f0-601fb9f6b7fe.xml#952ff25e-bc20-4faf-88f0-601fb9f6b7fe"/>
+</archimate:AssociationRelationship>

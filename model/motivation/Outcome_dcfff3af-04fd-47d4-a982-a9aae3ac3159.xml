@@ -1,0 +1,13 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meta"
+    id="dcfff3af-04fd-47d4-a982-a9aae3ac3159">
+  <properties
+      key="Descrição"/>
+  <properties
+      key="Prazo"/>
+  <properties
+      key="Estado"/>
+  <properties
+      key="Data da apuração"/>
+</archimate:Outcome>

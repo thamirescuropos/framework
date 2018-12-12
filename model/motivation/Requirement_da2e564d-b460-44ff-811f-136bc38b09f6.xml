@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requisito"
+    id="da2e564d-b460-44ff-811f-136bc38b09f6">
+  <properties
+      key="Descrição"/>
+  <properties
+      key="Atendimento"/>
+  <properties
+      key="Tipo"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="expressa"
+    id="492adcb5-1373-4a7c-a63c-aa7b89178e21">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_aac0606d-8813-441e-bf7c-50dc475a4ab7.xml#aac0606d-8813-441e-bf7c-50dc475a4ab7"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_bf7239d0-f9ac-4285-b5d8-e7fc1a423915.xml#bf7239d0-f9ac-4285-b5d8-e7fc1a423915"/>
+</archimate:AssociationRelationship>

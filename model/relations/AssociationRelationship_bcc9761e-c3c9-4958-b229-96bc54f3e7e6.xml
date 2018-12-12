@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="especifica"
+    id="bcc9761e-c3c9-4958-b229-96bc54f3e7e6">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_7943e45c-32a7-4e26-bf59-22c3820f216a.xml#7943e45c-32a7-4e26-bf59-22c3820f216a"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_952ff25e-bc20-4faf-88f0-601fb9f6b7fe.xml#952ff25e-bc20-4faf-88f0-601fb9f6b7fe"/>
+</archimate:AssociationRelationship>

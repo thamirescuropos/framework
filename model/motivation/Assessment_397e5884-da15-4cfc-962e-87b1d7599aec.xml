@@ -1,0 +1,19 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indicador"
+    id="397e5884-da15-4cfc-962e-87b1d7599aec">
+  <properties
+      key="Descrição"/>
+  <properties
+      key="Órgão Responsável"/>
+  <properties
+      key="Unidade de medida"/>
+  <properties
+      key="Índice de referência"/>
+  <properties
+      key="Data de apuração"/>
+  <properties
+      key="Periodicidade"/>
+  <properties
+      key="Fórmula de cálculo"/>
+</archimate:Assessment>

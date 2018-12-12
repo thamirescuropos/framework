@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gere"
+    id="234ca827-ef05-49bf-9d11-d1f950fdfefc">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_fb5a40e3-d387-4852-93eb-f10356e4ce71.xml#fb5a40e3-d387-4852-93eb-f10356e4ce71"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a9f551c9-8bc1-4ce2-b458-9ab09a2b0f5f.xml#a9f551c9-8bc1-4ce2-b458-9ab09a2b0f5f"/>
+</archimate:AssignmentRelationship>

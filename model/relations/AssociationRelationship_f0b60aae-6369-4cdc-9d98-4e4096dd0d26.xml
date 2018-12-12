@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="percebe"
+    id="f0b60aae-6369-4cdc-9d98-4e4096dd0d26">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_aac0606d-8813-441e-bf7c-50dc475a4ab7.xml#aac0606d-8813-441e-bf7c-50dc475a4ab7"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_52a3bef7-3609-4c7f-b80b-9e2137d31469.xml#52a3bef7-3609-4c7f-b80b-9e2137d31469"/>
+</archimate:AssociationRelationship>

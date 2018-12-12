@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tem responsabilidade"
+    id="8c68e426-403c-49b3-b59a-6a13571c3260">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_9c328bd1-e4eb-404c-ab3a-9667785233dc.xml#9c328bd1-e4eb-404c-ab3a-9667785233dc"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_d79130fc-b8c4-471f-9c2e-699ab4cbbb17.xml#d79130fc-b8c4-471f-9c2e-699ab4cbbb17"/>
+</archimate:AssociationRelationship>

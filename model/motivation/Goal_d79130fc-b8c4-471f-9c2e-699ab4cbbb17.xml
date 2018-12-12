@@ -1,0 +1,13 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Objetivo"
+    id="d79130fc-b8c4-471f-9c2e-699ab4cbbb17">
+  <properties
+      key="Descrição"/>
+  <properties
+      key="Prazo"/>
+  <properties
+      key="Estado"/>
+  <properties
+      key="Tipo"/>
+</archimate:Goal>

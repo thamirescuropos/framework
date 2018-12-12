@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provê"
+    id="6ff53298-d9c9-4bd3-8b12-3f35467653f3">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_fb5a40e3-d387-4852-93eb-f10356e4ce71.xml#fb5a40e3-d387-4852-93eb-f10356e4ce71"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_2aec81f7-492b-4c86-b208-3081d1abfffc.xml#2aec81f7-492b-4c86-b208-3081d1abfffc"/>
+</archimate:AssociationRelationship>

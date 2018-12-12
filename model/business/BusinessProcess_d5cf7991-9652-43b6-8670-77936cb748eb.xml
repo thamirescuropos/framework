@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*Regularizar obrigações contingentes"
+    id="d5cf7991-9652-43b6-8670-77936cb748eb"
+    documentation="Acaba quando o contrato é assinado.&#xA;&#xA;Calcular o custo da operação - GEROB&#xA;Verificar pendencias - GEROB&#xA;Verificar com a GEOFI se existem recursos disponibilizados.&#xA;&#xA;Elaborar a minuta do contrato - Área de normas (GENOR) como consultora&#xA;Informar o título que será emitido - CODIP (área da dívida) - para formar a minura do contrato&#xA;Encaminhar parecer para PGFN  que assina ou contrato solicita complementações.&#xA;Registrar o contrato no Regulariza = GEROB&#xA;&#xA;Encaminha o processo para área de controle que confere e dá OK - GECOB e para processar obrigações fiscais&#xA;GECOB encaminha para GEOFI que registra no SIAFI&#xA;No fim enviar para GECOB e para CODIV com solicitação para emissão dos títulos.&#xA;&#xA;O sistemas Regulariza e o SIAFI são utilizados nesse processo.&#xA;&#xA;&#xA;&#xA;&#xA;"/>

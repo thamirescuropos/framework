@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="13. Aplicações x Riscos - metamodelo"
+    id="ecf04496-bcf9-462a-a1df-13653c86f660">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f9c5afe6-7516-410a-ae1c-3af4be2d67a4"
+      fillColor="#ff7553"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c9aad13e-cb70-4563-80ba-4a9ad5f53f48"
+        source="f9c5afe6-7516-410a-ae1c-3af4be2d67a4"
+        target="6b7867ce-a6fd-4efa-a3d8-83ca46a980b2">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_e7cabaa6-0c21-4f1e-b776-b15f7400aee2.xml#e7cabaa6-0c21-4f1e-b776-b15f7400aee2"/>
+    </sourceConnections>
+    <bounds
+        x="384"
+        y="228"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_06189f7a-4bd2-4efd-906b-70adef276fc1.xml#06189f7a-4bd2-4efd-906b-70adef276fc1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6b7867ce-a6fd-4efa-a3d8-83ca46a980b2"
+      targetConnections="c9aad13e-cb70-4563-80ba-4a9ad5f53f48"
+      textPosition="1">
+    <bounds
+        x="384"
+        y="108"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_562beebf-0f71-48e7-a268-f1dac0396f30.xml#562beebf-0f71-48e7-a268-f1dac0396f30"/>
+  </children>
+</archimate:ArchimateDiagramModel>

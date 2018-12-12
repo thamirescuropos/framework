@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="desempenha"
+    id="70ca3004-cff7-4bb5-8720-8e6427332daa">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_39903a75-24d9-4438-9a91-49ba3a35a161.xml#39903a75-24d9-4438-9a91-49ba3a35a161"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_51722496-35ba-454b-a5d0-5dd48485c4d4.xml#51722496-35ba-454b-a5d0-5dd48485c4d4"/>
+</archimate:AssociationRelationship>

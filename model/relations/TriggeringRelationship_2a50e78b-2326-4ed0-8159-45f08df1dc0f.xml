@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dispara"
+    id="2a50e78b-2326-4ed0-8159-45f08df1dc0f">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_fb5a40e3-d387-4852-93eb-f10356e4ce71.xml#fb5a40e3-d387-4852-93eb-f10356e4ce71"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_277b7319-7b7c-43d2-983c-dde36ea50fda.xml#277b7319-7b7c-43d2-983c-dde36ea50fda"/>
+</archimate:TriggeringRelationship>

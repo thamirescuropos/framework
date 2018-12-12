@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provê suporte"
+    id="b9f1d607-982e-407c-8402-5b06a2f4c46b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_562beebf-0f71-48e7-a268-f1dac0396f30.xml#562beebf-0f71-48e7-a268-f1dac0396f30"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_36deaa2d-1c41-421e-a5f7-2a7d97568a84.xml#36deaa2d-1c41-421e-a5f7-2a7d97568a84"/>
+</archimate:ServingRelationship>

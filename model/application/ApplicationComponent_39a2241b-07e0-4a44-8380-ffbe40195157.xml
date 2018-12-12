@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplicação / Solução (copy)"
+    id="39a2241b-07e0-4a44-8380-ffbe40195157">
+  <properties
+      key="Identificador"/>
+  <properties
+      key="Nome"/>
+  <properties
+      key="Descrição"/>
+  <properties
+      key="Criticidade"/>
+  <properties
+      key="É estratégico?"/>
+  <properties
+      key="Situação"/>
+  <properties
+      key="Link de acesso"/>
+</archimate:ApplicationComponent>

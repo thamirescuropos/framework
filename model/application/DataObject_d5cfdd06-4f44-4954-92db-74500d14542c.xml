@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registro de pagamento"
+    id="d5cfdd06-4f44-4954-92db-74500d14542c">
+  <properties
+      key="Última atualização"/>
+  <properties
+      key="Categoria do e-VoG"/>
+  <properties
+      key="Data de início dos dados"/>
+  <properties
+      key="Frequência de atualização"/>
+  <properties
+      key="Resource Group"/>
+</archimate:DataObject>

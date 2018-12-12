@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="avalia"
+    id="566ff45a-80c4-4e47-b97d-5ac4bdae3055">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_36c143e6-f298-4d8a-ad9a-be565abb0bb4.xml#36c143e6-f298-4d8a-ad9a-be565abb0bb4"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_19dac3d1-9fdc-4be0-aa35-78ae98d0e1e8.xml#19dac3d1-9fdc-4be0-aa35-78ae98d0e1e8"/>
+</archimate:AssociationRelationship>

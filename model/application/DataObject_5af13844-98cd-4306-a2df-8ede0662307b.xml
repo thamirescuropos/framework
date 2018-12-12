@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conjunto de dados"
+    id="5af13844-98cd-4306-a2df-8ede0662307b">
+  <properties
+      key="Última atualização"/>
+  <properties
+      key="Categoria do e-VoG"/>
+  <properties
+      key="Data de início dos dados"/>
+  <properties
+      key="Frequência de atualização"/>
+  <properties
+      key="Resource Group"/>
+</archimate:DataObject>

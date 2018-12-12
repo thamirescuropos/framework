@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="especializa"
+    id="ddd49b07-c78f-405a-987d-eeea264b39b6">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_9c328bd1-e4eb-404c-ab3a-9667785233dc.xml#9c328bd1-e4eb-404c-ab3a-9667785233dc"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_aac0606d-8813-441e-bf7c-50dc475a4ab7.xml#aac0606d-8813-441e-bf7c-50dc475a4ab7"/>
+</archimate:SpecializationRelationship>

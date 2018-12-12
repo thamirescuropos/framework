@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="acessa"
+    id="2ce0b08b-c980-49f2-b32c-956a18a250de">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a9f551c9-8bc1-4ce2-b458-9ab09a2b0f5f.xml#a9f551c9-8bc1-4ce2-b458-9ab09a2b0f5f"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_9c328bd1-e4eb-404c-ab3a-9667785233dc.xml#9c328bd1-e4eb-404c-ab3a-9667785233dc"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fornece"
+    id="7a01995d-65b8-40fe-92a7-54f6d66ef690">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_103f0e11-4570-46b8-91c7-495cc0582195.xml#103f0e11-4570-46b8-91c7-495cc0582195"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_be3cb33c-14d0-4164-853c-ed5ed70aaa3e.xml#be3cb33c-14d0-4164-853c-ed5ed70aaa3e"/>
+</archimate:AssociationRelationship>

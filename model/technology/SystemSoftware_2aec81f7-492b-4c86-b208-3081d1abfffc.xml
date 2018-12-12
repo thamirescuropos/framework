@@ -1,0 +1,29 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Componente arquitetural"
+    id="2aec81f7-492b-4c86-b208-3081d1abfffc">
+  <properties
+      key="Nome"/>
+  <properties
+      key="Descrição"/>
+  <properties
+      key="Sigla"/>
+  <properties
+      key="Paradigma"/>
+  <properties
+      key="Criticidade"/>
+  <properties
+      key="É estratégico?"
+      value="Sim/Não"/>
+  <properties
+      key="Situação"/>
+  <properties
+      key="Tem custo?"
+      value="Sim/Não"/>
+  <properties
+      key="Informações adicionais"/>
+  <properties
+      key="Quando utilizar (recomendado para)"/>
+  <properties
+      key="Quando não utilizar"/>
+</archimate:SystemSoftware>

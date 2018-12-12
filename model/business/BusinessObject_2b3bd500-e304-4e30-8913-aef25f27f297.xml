@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PAF – Plano Anual de Financiamento da DPF "
+    id="2b3bd500-e304-4e30-8913-aef25f27f297">
+  <properties
+      key="Nome"/>
+  <properties
+      key="Descrição"/>
+  <properties
+      key="Tipologia"/>
+</archimate:BusinessObject>

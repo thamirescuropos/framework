@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplicação"
+    id="562beebf-0f71-48e7-a268-f1dac0396f30">
+  <properties
+      key="Identificador"/>
+  <properties
+      key="Nome"/>
+  <properties
+      key="Sigla"/>
+  <properties
+      key="Descrição"/>
+  <properties
+      key="Paradigma"/>
+  <properties
+      key="Criticidade"/>
+  <properties
+      key="É estratégico?"
+      value="Sim/Não"/>
+  <properties
+      key="Situação"/>
+  <properties
+      key="Link de acesso"/>
+  <properties
+      key="Tem custo?"
+      value="Sim/Não"/>
+  <properties
+      key="Informações adicionais"/>
+  <properties
+      key="Quando utilizar (recomendado para)"/>
+  <properties
+      key="Quando não utilizar"/>
+</archimate:ApplicationComponent>
